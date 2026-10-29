@@ -1,0 +1,19 @@
+[submodule "vendor/agent-skills"]
+	path = vendor/agent-skills
+	url = https://github.com/marcelorodrigo/agent-skills.git
+
+[submodule "vendor/anthropics-skills"]
+	path = vendor/anthropics-skills
+	url = https://github.com/anthropics/skills.git
+
+[submodule "vendor/aspire"]
+	path = vendor/aspire
+	url = https://github.com/microsoft/aspire.git
+
+[submodule "vendor/superpowers"]
+	path = vendor/superpowers
+	url = https://github.com/obra/superpowers.git
+
+[submodule "vendor/vscode"]
+	path = vendor/vscode
+	url = https://github.com/microsoft/vscode.git
